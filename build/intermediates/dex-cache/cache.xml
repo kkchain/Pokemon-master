@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_8dfc38f1a897cf6aebbf69f0196f0e9a8d41e353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/7e7a8375827f42d16bb31171be0b6d2272d8595f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_e537589d29e215345ea367c86b2b0d7f7dd43867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/84bd3c5507ddca0110472ad12f125664cf91edb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_b3e300e05a257fceef851b5c9476678fa7e2d74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5785da6b3ee3bff8d9b508cf4b8fdc818ff77bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/9b28062bfaf6394ee5f1c7fa1a911c7aad277b49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_a3f7918091c8c205beacaaa1560861396a7acb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/6b4d7371852b315b44d1b4c571841e8b08512890/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_229ed378ed53a5e954fd8e8dae8a80ddad8c9200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/747a16fd42b0b010e4cc0cf99792d1d7c22a133c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_251a0bf78f4423d39030093bba0924c5736a453b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/abeea564ae5df9be45128d498d55d732c570036e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_c8ecd838e6d1cb7e456389921d41a46d678ff142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/e0d8ab293e8c8f6416c7668a9d68b191930a7e05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_b35b657e6b91311359720ede18a21d619ba131c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/364726c73d6e3b197cbac70a9674db4cd5c26815/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_fe0f986f6cc2610e7d5d95dbfe0c24a04a7479c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/b63fa932619663e2d6fa7235d0cd950c4befabd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_48706604f17efe819adf4159f9110e9bf1050341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kk.chain/.android/build-cache/6e5ae4681b5d8e1c8c353500ee4581c50b698cee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/kk.chain/Downloads/Pokemon-master/app/build/intermediates/pre-dexed/debug/classes_26e84d154e51b4d86087a756e9563f308318abee.jar" />
+    </item>
+
+</items>
